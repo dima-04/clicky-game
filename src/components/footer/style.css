@@ -1,0 +1,14 @@
+footer {
+  min-height: 50px;
+  background: rgb(7, 177, 207);
+  position: relative;
+}
+
+.footer span {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  padding: 1px;
+  background: rgb(7, 177, 207);
+}
