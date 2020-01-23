@@ -1,14 +1,20 @@
-import React from 'react';
+import React, { Component } from 'react';
 import './App.css';
 
 import Home from "./components/pages/Home";
 
 import images from './puppies.json';
 
-function App() {
-  return (
-      <Home images={images}/>
-  );
+class App extends Component {
+  componentDidMount() {
+    document.title = "Click game";
+  }
+
+  render() {
+    return (
+      <Home images={images} />
+    );
+  }
 }
 
 
