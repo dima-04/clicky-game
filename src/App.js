@@ -1,18 +1,13 @@
 import React from 'react';
-import { Container } from 'react-bootstrap';
 import './App.css';
-import NavBar from "./components/NavBar";
+
 import Home from "./components/pages/Home";
-import Footer from './components/footer';
+
+import images from './puppies.json';
 
 function App() {
   return (
-    <Container>
-      <NavBar score="0" topScore="0" />
-      <Home/>
-      <Footer/>
-    </Container>
-
+      <Home images={images}/>
   );
 }
 

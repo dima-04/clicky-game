@@ -1,11 +1,11 @@
-
 import React from "react";
-import "./style.css";
+import {Navbar} from 'react-bootstrap';
+
 function Footer() {
   return (
-    <footer className="footer">
-      <span>Clicky-Game 2020</span>
-    </footer>
+    <Navbar fixed="bottom" bg="info" className="footer">
+      <span className="mx-auto">Clicky-Game 2020</span>
+    </Navbar>
   );
 }
 
