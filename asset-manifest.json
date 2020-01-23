@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "/clicky-game/static/css/main.880d0311.chunk.css",
-    "main.js": "/clicky-game/static/js/main.a050fbe7.chunk.js",
-    "main.js.map": "/clicky-game/static/js/main.a050fbe7.chunk.js.map",
+    "main.js": "/clicky-game/static/js/main.0d5b6f95.chunk.js",
+    "main.js.map": "/clicky-game/static/js/main.0d5b6f95.chunk.js.map",
     "runtime-main.js": "/clicky-game/static/js/runtime-main.24c47d54.js",
     "runtime-main.js.map": "/clicky-game/static/js/runtime-main.24c47d54.js.map",
     "static/css/2.47e06e2e.chunk.css": "/clicky-game/static/css/2.47e06e2e.chunk.css",
-    "static/js/2.64f5e606.chunk.js": "/clicky-game/static/js/2.64f5e606.chunk.js",
-    "static/js/2.64f5e606.chunk.js.map": "/clicky-game/static/js/2.64f5e606.chunk.js.map",
+    "static/js/2.da1406bd.chunk.js": "/clicky-game/static/js/2.da1406bd.chunk.js",
+    "static/js/2.da1406bd.chunk.js.map": "/clicky-game/static/js/2.da1406bd.chunk.js.map",
     "index.html": "/clicky-game/index.html",
-    "precache-manifest.b55d41731de062245f18a32d725d5cb3.js": "/clicky-game/precache-manifest.b55d41731de062245f18a32d725d5cb3.js",
+    "precache-manifest.d1e4a8990c9dc23c97f1936db92b0f6b.js": "/clicky-game/precache-manifest.d1e4a8990c9dc23c97f1936db92b0f6b.js",
     "service-worker.js": "/clicky-game/service-worker.js",
     "static/css/2.47e06e2e.chunk.css.map": "/clicky-game/static/css/2.47e06e2e.chunk.css.map",
     "static/css/main.880d0311.chunk.css.map": "/clicky-game/static/css/main.880d0311.chunk.css.map",
-    "static/js/2.64f5e606.chunk.js.LICENSE": "/clicky-game/static/js/2.64f5e606.chunk.js.LICENSE"
+    "static/js/2.da1406bd.chunk.js.LICENSE": "/clicky-game/static/js/2.da1406bd.chunk.js.LICENSE"
   },
   "entrypoints": [
     "static/js/runtime-main.24c47d54.js",
     "static/css/2.47e06e2e.chunk.css",
-    "static/js/2.64f5e606.chunk.js",
+    "static/js/2.da1406bd.chunk.js",
     "static/css/main.880d0311.chunk.css",
-    "static/js/main.a050fbe7.chunk.js"
+    "static/js/main.0d5b6f95.chunk.js"
   ]
 }
