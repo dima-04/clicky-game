@@ -40,7 +40,7 @@ class Home extends Component {
       newState.message = "You guessed correctly";
       newState.className = "correct";
     }
-    newState.score = Math.max(newState.score, newState.topScore);
+    newState.topScore = Math.max(newState.score, newState.topScore);
 
     const shuffledImages = images.sort(() => Math.random() - 0.5);
     newState.images = shuffledImages;
